@@ -1,0 +1,29 @@
+{
+  "openTickets": [],
+  "administrators": [
+    "754793389396066434",
+    "159985870458322944"
+  ],
+  "ticketChannel": "1020508946219413669",
+  "emojis": {
+    "defaults": {
+      "checkEmoji": "<:check:1365656295838978109>",
+      "errorEmoji": "<:error:1365656796450000937>",
+      "loadingEmoji": "<a:tdloading:1372870759101239326>",
+      "resetEmoji": "<:bin:1372635306565701702>"
+    },
+    "customs": {}
+  },
+  "transcriptType": "none",
+  "responseRoles": {
+    "support": [],
+    "internalAffairs": [],
+    "directive": []
+  },
+  "ticketStatuses": {
+    "support": true,
+    "internalAffairs": true,
+    "directive": true
+  },
+  "ticketCategory": "1020508946219413667"
+}
